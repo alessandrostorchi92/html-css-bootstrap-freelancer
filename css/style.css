@@ -1,0 +1,11 @@
+.bg-navbar {
+    background-color: #2B3E50;
+}
+
+nav b,nav i {
+    color: white;
+}
+
+nav i {
+    font-size: 1.5rem;
+}
